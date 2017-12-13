@@ -8,5 +8,5 @@ public class countryCodes {
   static final String AT = "Austria";
   static final String RO = "Romania";
   static final String HR = "Croatia";
-  
+  static final String RS = "Serbia";
 }
