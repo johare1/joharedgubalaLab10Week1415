@@ -4,6 +4,9 @@ import java.util.*;
 import org.jgrapht.*;
 import org.jgrapht.graph.*;
 import org.jgrapht.traverse.*;
+import org.jgrapht.alg.color.GreedyColoring;
+import org.jgrapht.graph.DefaultEdge;
+import org.jgrapht.graph.SimpleGraph;
 
 public class Main {
 
